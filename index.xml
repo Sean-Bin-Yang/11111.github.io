@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Shirui Pan</title>
-    <link>https://shiruipan.github.io/</link>
-      <atom:link href="https://shiruipan.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Shirui Pan</description>
+    <title>Sean Bin Yang</title>
+    <link>https://Sean-Bin-Yang.github.io/</link>
+      <atom:link href="https://Sean-Bin-Yang.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sean Bin Yang</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://shiruipan.github.io/media/icon_hu59d1f1cfeeafec33917f8e7cb700ff18_30479_512x512_fill_lanczos_center_3.png</url>
-      <title>Shirui Pan</title>
-      <link>https://shiruipan.github.io/</link>
+      <url>https://Sean-Bin-Yang.github.io/media/xxxx.png</url>
+      <title>Sean Bin Yang</title>
+      <link>https://Sean-Bin-Yang.github.io/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>https://shiruipan.github.io/talk/example-talk/</link>
+      <link>https://Sean-Bin-Yang.github.io/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/talk/example-talk/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -34,258 +34,258 @@
     
     <item>
       <title>GNNEvaluator: Evaluating GNN Performance On Unseen Graphs Without Labels</title>
-      <link>https://shiruipan.github.io/publication/neurips-23-zheng-2/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/neurips-23-zheng-2/</link>
       <pubDate>Sun, 10 Dec 2023 19:47:36 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/neurips-23-zheng-2/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/neurips-23-zheng-2/</guid>
       <description></description>
     </item>
     
-    <item>
+    <!-- <item>
       <title>Structure-free Graph Condensation: From Large-scale Graphs to Condensed Graph-free Data</title>
-      <link>https://shiruipan.github.io/publication/neurips-23-zheng-1/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/neurips-23-zheng-1/</link>
       <pubDate>Sun, 10 Dec 2023 19:47:36 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/neurips-23-zheng-1/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/neurips-23-zheng-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards Self-Interpretable Graph-Level Anomaly Detection</title>
-      <link>https://shiruipan.github.io/publication/neurips-23-liu/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/neurips-23-liu/</link>
       <pubDate>Sun, 10 Dec 2023 19:47:36 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/neurips-23-liu/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/neurips-23-liu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Correlation-aware Spatial-Temporal Graph Learning for Multivariate Time-series Anomaly Detection</title>
-      <link>https://shiruipan.github.io/publication/tnnls-23-zheng/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/tnnls-23-zheng/</link>
       <pubDate>Sun, 15 Oct 2023 19:47:36 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/tnnls-23-zheng/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/tnnls-23-zheng/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reasoning on Graphs: Faithful and Interpretable Large Language Model Reasoning</title>
-      <link>https://shiruipan.github.io/publication/rog-23-luo/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/rog-23-luo/</link>
       <pubDate>Tue, 10 Oct 2023 19:47:36 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/rog-23-luo/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/rog-23-luo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards Few-shot Inductive Link Prediction on Knowledge Graphs: A Relational Anonymous Walk-guided Neural Process Approach</title>
-      <link>https://shiruipan.github.io/publication/ecml-23-zhao/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/ecml-23-zhao/</link>
       <pubDate>Mon, 18 Sep 2023 19:47:36 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/ecml-23-zhao/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/ecml-23-zhao/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Domain-adaptive Graph Attention-supervised Network for Cross-network Edge Classification</title>
-      <link>https://shiruipan.github.io/publication/tnnls-23-shen/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/tnnls-23-shen/</link>
       <pubDate>Sat, 26 Aug 2023 19:47:36 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/tnnls-23-shen/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/tnnls-23-shen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards Flexible and Adaptive Neural Process for Cold-Start Recommendation</title>
-      <link>https://shiruipan.github.io/publication/tkde-23-lin/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/tkde-23-lin/</link>
       <pubDate>Sat, 26 Aug 2023 19:47:36 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/tkde-23-lin/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/tkde-23-lin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unifying Large Language Models and Knowledge Graphs: A Roadmap</title>
-      <link>https://shiruipan.github.io/publication/llm-kg-23/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/llm-kg-23/</link>
       <pubDate>Fri, 18 Aug 2023 19:47:36 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/llm-kg-23/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/llm-kg-23/</guid>
       <description></description>
     </item>
     
-    <item>
+    <!-- <item> -->
       <title>Learning Strong Graph Neural Networks with Weak Information</title>
-      <link>https://shiruipan.github.io/publication/kdd-23-liu/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/kdd-23-liu/</link>
       <pubDate>Sun, 06 Aug 2023 19:47:36 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/kdd-23-liu/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/kdd-23-liu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Survey on Fairness-aware Recommender Systems</title>
-      <link>https://shiruipan.github.io/publication/inforfus-23-jin/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/inforfus-23-jin/</link>
       <pubDate>Sat, 05 Aug 2023 19:47:36 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/inforfus-23-jin/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/inforfus-23-jin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Survey on Neural-symbolic Learning Systems</title>
-      <link>https://shiruipan.github.io/publication/nnj-23-yu/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/nnj-23-yu/</link>
       <pubDate>Sat, 05 Aug 2023 19:47:36 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/nnj-23-yu/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/nnj-23-yu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Boosting Graph Contrastive Learning via Adaptive Sampling</title>
-      <link>https://shiruipan.github.io/publication/tnnls-23-wan/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/tnnls-23-wan/</link>
       <pubDate>Sat, 05 Aug 2023 19:47:36 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/tnnls-23-wan/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/tnnls-23-wan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>G2Pxy: Generative Open-Set node Classification on Graphs with Proxy Unknowns</title>
-      <link>https://shiruipan.github.io/publication/ijcai-23-zhang/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/ijcai-23-zhang/</link>
       <pubDate>Tue, 01 Aug 2023 19:47:36 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/ijcai-23-zhang/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/ijcai-23-zhang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Demystifying Uneven Vulnerability of Link Stealing Attacks against Graph Neural Networks</title>
-      <link>https://shiruipan.github.io/publication/icml-23-zhang/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/icml-23-zhang/</link>
       <pubDate>Sun, 23 Jul 2023 19:47:36 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/icml-23-zhang/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/icml-23-zhang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Finding the Missing-half: Graph Complementary Learning for Homophily-prone and Heterophily-prone Graphs</title>
-      <link>https://shiruipan.github.io/publication/icml-23-zheng/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/icml-23-zheng/</link>
       <pubDate>Sun, 23 Jul 2023 19:47:36 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/icml-23-zheng/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/icml-23-zheng/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Normalizing Flow-based Neural Process for Few-Shot Knowledge Graph Completion</title>
-      <link>https://shiruipan.github.io/publication/sigir-23-luo/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/sigir-23-luo/</link>
       <pubDate>Sun, 23 Jul 2023 19:47:36 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/sigir-23-luo/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/sigir-23-luo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Shrinking Embeddings for Hyper-Relational Knowledge Graphs</title>
-      <link>https://shiruipan.github.io/publication/acl-23-xiong/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/acl-23-xiong/</link>
       <pubDate>Sun, 09 Jul 2023 19:47:36 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/acl-23-xiong/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/acl-23-xiong/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spatio-Temporal Joint Graph Convolutional Networks for Traffic Forecasting</title>
-      <link>https://shiruipan.github.io/publication/tkde-23-zheng/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/tkde-23-zheng/</link>
       <pubDate>Mon, 05 Jun 2023 19:47:36 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/tkde-23-zheng/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/tkde-23-zheng/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Auto-HeG: Automated Graph Neural Network on Heterophilic Graphs</title>
-      <link>https://shiruipan.github.io/publication/www-23-zheng/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/www-23-zheng/</link>
       <pubDate>Sun, 30 Apr 2023 19:47:36 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/www-23-zheng/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/www-23-zheng/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dual Intent Enhanced Graph Neural Network for Session-based New Item Recommendation</title>
-      <link>https://shiruipan.github.io/publication/www-23-jin/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/www-23-jin/</link>
       <pubDate>Sun, 30 Apr 2023 19:47:36 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/www-23-jin/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/www-23-jin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Robust Graph Representation Learning for Local Corruption Recovery</title>
-      <link>https://shiruipan.github.io/publication/www-23-zhou/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/www-23-zhou/</link>
       <pubDate>Sun, 30 Apr 2023 19:47:36 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/www-23-zhou/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/www-23-zhou/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MAMDR: A Model Agnostic Learning Method for Multi-Domain Recommendation</title>
-      <link>https://shiruipan.github.io/publication/icde-23-luo/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/icde-23-luo/</link>
       <pubDate>Mon, 03 Apr 2023 19:47:36 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/icde-23-luo/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/icde-23-luo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TxAllo: Dynamic Transaction Allocation in Sharded Blockchain Systems</title>
-      <link>https://shiruipan.github.io/publication/icde-23-zhang/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/icde-23-zhang/</link>
       <pubDate>Mon, 03 Apr 2023 19:47:36 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/icde-23-zhang/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/icde-23-zhang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Beyond Smoothing: Unsupervised Graph Representation Learning with Edge Heterophily Discriminating</title>
-      <link>https://shiruipan.github.io/publication/aaai-23-liu/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/aaai-23-liu/</link>
       <pubDate>Mon, 27 Feb 2023 19:47:36 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/aaai-23-liu/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/aaai-23-liu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Graph Sequential Neural ODE Process for Link Prediction on Dynamic and Sparse Graphs</title>
-      <link>https://shiruipan.github.io/publication/wsdm-23-luo/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/wsdm-23-luo/</link>
       <pubDate>Mon, 27 Feb 2023 19:47:36 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/wsdm-23-luo/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/wsdm-23-luo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Neighbor Contrastive Learning on Learnable Graph Augmentation</title>
-      <link>https://shiruipan.github.io/publication/aaai-23-shen/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/aaai-23-shen/</link>
       <pubDate>Mon, 27 Feb 2023 19:47:36 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/aaai-23-shen/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/aaai-23-shen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Simple and Efficient Heterogeneous Graph Neural Network</title>
-      <link>https://shiruipan.github.io/publication/aaaai-23-yang/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/aaaai-23-yang/</link>
       <pubDate>Mon, 27 Feb 2023 19:47:36 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/aaaai-23-yang/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/aaaai-23-yang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GOOD-D: On Unsupervised Graph Out-Of-Distribution Detection</title>
-      <link>https://shiruipan.github.io/publication/wsdm-23-liu/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/wsdm-23-liu/</link>
       <pubDate>Sun, 26 Feb 2023 19:47:36 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/wsdm-23-liu/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/wsdm-23-liu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Selected Publications (IEEE Trans/CORE A* Papers)</title>
-      <link>https://shiruipan.github.io/post/selectedpub/</link>
+      <link>https://Sean-Bin-Yang.github.io/post/selectedpub/</link>
       <pubDate>Sat, 11 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/post/selectedpub/</guid>
-      <description>&lt;script src=&#34;https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fzotero-mypublications%2Fshiruipan&amp;jsonp=1&#34;&gt;&lt;/script&gt;
+      <guid>https://Sean-Bin-Yang.github.io/post/selectedpub/</guid>
+      <description>&lt;script src=&#34;https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fzotero-mypublications%2FSean-Bin-Yang&amp;jsonp=1&#34;&gt;&lt;/script&gt;
 </description>
     </item>
     
     <item>
       <title>Contrastive Graph Similarity Networks</title>
-      <link>https://shiruipan.github.io/publication/tweb-23-wang/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/tweb-23-wang/</link>
       <pubDate>Mon, 30 Jan 2023 19:47:36 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/tweb-23-wang/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/tweb-23-wang/</guid>
       <description></description>
     </item>
-    
+     -->
     <item>
       <title>Graph ML Research from Our Group</title>
-      <link>https://shiruipan.github.io/post/research/</link>
+      <link>https://Sean-Bin-Yang.github.io/post/research/</link>
       <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/post/research/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/post/research/</guid>
       <description>&lt;p&gt;Our research group has been working extensively in graph machine learning (ML), particularly in graph neural networks (GNNs). Some of the GNN research is highlighted below. Besides graph ML, we are also working in the broad area of AI. See more details in this &lt;a href=&#34;../../post/phd_position/&#34;&gt;link&lt;/a&gt;.&lt;/p&gt;
 &lt;h4 id=&#34;1--graph-self-supervised-learning-graph-ssl&#34;&gt;1.  Graph self-supervised learning (Graph SSL)&lt;/h4&gt;
 &lt;ul&gt;
@@ -324,7 +324,7 @@ Dynamic Graph Neural ODEs (TKDE-22)&lt;/a&gt;&lt;/li&gt;
 &lt;h4 id=&#34;7-gnns-for-clusteringcommunity-detection&#34;&gt;7. GNNs for clustering/community detection&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.ijcai.org/proceedings/2019/509&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Attributed Graph Clustering: A Deep Attentional Embedding Approach (IJCAI-19)&lt;/a&gt;(Citations: 270+)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://shiruipan.github.io/publication/wang-mgae-2017/wang-mgae-2017.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MGAE: marginalized graph autoencoder for graph clustering (CIKM-17)&lt;/a&gt; (Citations: 300+)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://Sean-Bin-Yang.github.io/publication/wang-mgae-2017/wang-mgae-2017.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MGAE: marginalized graph autoencoder for graph clustering (CIKM-17)&lt;/a&gt; (Citations: 300+)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4 id=&#34;8-gnns-for-anomaly-detection&#34;&gt;8. GNNS for anomaly detection&lt;/h4&gt;
 &lt;ul&gt;
@@ -339,7 +339,7 @@ Dynamic Graph Neural ODEs (TKDE-22)&lt;/a&gt;&lt;/li&gt;
 &lt;h4 id=&#34;10-privacy-in-gnns&#34;&gt;10. Privacy in GNNs&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2010.12751.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Model Extraction Attacks on Graph Neural Networks: Taxonomy and Realisation (AsiaCCS-22)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://shiruipan.github.io/publication/icdm-21-wu/icdm-21-wu.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Adapting Membership Inference Attacks to GNN for Graph Classification: Approaches and Implications (ICDM-21)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://Sean-Bin-Yang.github.io/publication/icdm-21-wu/icdm-21-wu.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Adapting Membership Inference Attacks to GNN for Graph Classification: Approaches and Implications (ICDM-21)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4 id=&#34;11-graph-few-shot-learning&#34;&gt;11. Graph Few-shot Learning&lt;/h4&gt;
 &lt;ul&gt;
@@ -347,16 +347,16 @@ Dynamic Graph Neural ODEs (TKDE-22)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4 id=&#34;12-graph-structure-learning&#34;&gt;12. Graph Structure Learning&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://shiruipan.github.io/publication/www-22-liu/www-22-liu.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Towards Unsupervised Deep Graph Structure Learning (WWW-22)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://Sean-Bin-Yang.github.io/publication/www-22-liu/www-22-liu.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Towards Unsupervised Deep Graph Structure Learning (WWW-22)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4 id=&#34;13-graph-neural-architecture-search&#34;&gt;13. Graph Neural Architecture Search&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://shiruipan.github.io/publication/icdm-22-xin/icdm-22-xin.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Multi-Relational Graph Neural Architecture Search with Fine-grained Message Passing (ICDM-22)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://Sean-Bin-Yang.github.io/publication/icdm-22-xin/icdm-22-xin.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Multi-Relational Graph Neural Architecture Search with Fine-grained Message Passing (ICDM-22)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2302.12357.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Auto-HeG: Automated Graph Neural Network on Heterophilic Graphs (WWW-22)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4 id=&#34;14-graph-domain-adaptation&#34;&gt;14. Graph Domain Adaptation&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://shiruipan.github.io/publication/www-2020-wu/www-2020-wu.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Unsupervised Domain Adaptive Graph Convolutional Networks (WWW-20)&lt;/a&gt; (Citations: 80+)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://Sean-Bin-Yang.github.io/publication/www-2020-wu/www-2020-wu.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Unsupervised Domain Adaptive Graph Convolutional Networks (WWW-20)&lt;/a&gt; (Citations: 80+)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4 id=&#34;15-graph-out-of-distribution-generalization-and-detection&#34;&gt;15. Graph Out-of-Distribution Generalization and Detection&lt;/h4&gt;
 &lt;ul&gt;
@@ -365,7 +365,7 @@ Dynamic Graph Neural ODEs (TKDE-22)&lt;/a&gt;&lt;/li&gt;
 &lt;h4 id=&#34;16-graph-similarity-learning&#34;&gt;16. Graph Similarity Learning&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://dl.acm.org/doi/pdf/10.1145/3580511&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Contrastive Graph Similarity Networks (TWEB-23)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://shiruipan.github.io/publication/ijcai-22-jin/ijcai-22-jin.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CGMN: A Contrastive Graph Matching Network for Self-Supervised Graph Similarity Learning (IJCAI-22)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://Sean-Bin-Yang.github.io/publication/ijcai-22-jin/ijcai-22-jin.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CGMN: A Contrastive Graph Matching Network for Self-Supervised Graph Similarity Learning (IJCAI-22)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4 id=&#34;17-gnns-for-recommender-systems&#34;&gt;17. GNNs for Recommender Systems&lt;/h4&gt;
 &lt;ul&gt;
@@ -391,14 +391,14 @@ Dynamic Graph Neural ODEs (TKDE-22)&lt;/a&gt;&lt;/li&gt;
     
     <item>
       <title>招生信息</title>
-      <link>https://shiruipan.github.io/post/recruitment/</link>
+      <link>https://Sean-Bin-Yang.github.io/post/recruitment/</link>
       <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/post/recruitment/</guid>
-      <description>&lt;p&gt;潘世瑞 (Shirui Pan)，&lt;a href=&#34;https://www.griffith.edu.au/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Griffith University&lt;/a&gt; (格里菲斯大学）终身教授（Full Professor）。现招聘2024年入学3名博士生加盟其新课题组，从事图神经网络、知识图谱、时间序列、大语言模型方向研究，提供全额奖学金。&lt;/p&gt;
+      <guid>https://Sean-Bin-Yang.github.io/post/recruitment/</guid>
+      <description>&lt;p&gt;xxxx (xxx)，&lt;a href=&#34;https://www.griffith.edu.au/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Griffith University&lt;/a&gt; (格里菲斯大学）终身教授（Full Professor）。现招聘2024年入学3名博士生加盟其新课题组，从事图神经网络、知识图谱、时间序列、大语言模型方向研究，提供全额奖学金。&lt;/p&gt;
 &lt;h3 id=&#34;关于本团队&#34;&gt;关于本团队&lt;/h3&gt;
-&lt;p&gt;潘世瑞（Shirui Pan），澳大利亚基金委杰出青年 &lt;a href=&#34;https://www.arc.gov.au/news-publications/media/media-releases/outstanding-mid-career-researchers-conduct-research-benefit-australia&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ARC Future Fellow&lt;/a&gt;，2022年8月起任&lt;a href=&#34;https://www.griffith.edu.au/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;格里菲斯大学&lt;/a&gt;正教授（Full Professor），同时也是目前澳洲计算机领域最年轻正教授（之一），2023年入选&lt;a href=&#34;https://www.qldacademy.org.au/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;澳大利亚昆士兰艺术与科学院（QAAS）&lt;/a&gt; Fellow。连续两年入选全球&lt;a href=&#34;https://shiruipan.github.io/post/ai2000-2022.png&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AAAI/IJCAI最具影响力学者&lt;/a&gt;（2022澳洲仅3人入选），入选&lt;a href=&#34;https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;全球前2%顶尖科学家榜单&lt;/a&gt; （2022，2021），
+&lt;p&gt;xxx（xxxx），澳大利亚基金委杰出青年 &lt;a href=&#34;https://www.arc.gov.au/news-publications/media/media-releases/outstanding-mid-career-researchers-conduct-research-benefit-australia&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ARC Future Fellow&lt;/a&gt;，2022年8月起任&lt;a href=&#34;https://www.griffith.edu.au/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;格里菲斯大学&lt;/a&gt;正教授（Full Professor），同时也是目前澳洲计算机领域最年轻正教授（之一），2023年入选&lt;a href=&#34;https://www.qldacademy.org.au/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;澳大利亚昆士兰艺术与科学院（QAAS）&lt;/a&gt; Fellow。连续两年入选全球&lt;a href=&#34;https://Sean-Bin-Yang.github.io/post/ai2000-2022.png&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AAAI/IJCAI最具影响力学者&lt;/a&gt;（2022澳洲仅3人入选），入选&lt;a href=&#34;https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;全球前2%顶尖科学家榜单&lt;/a&gt; （2022，2021），
 获得2021蒙纳士大学信息技术学院研究卓越奖（青年学者）。指导学生获得数据挖掘会议ICDM 最佳学生论文奖（2020），获得2024年IEEE CIS TNNLS杰出论文奖。在NeurIPS、ICML、KDD、TPAMI、TKDE等发表高水平论文150篇。同时担任TPAMI, TNNLS, TKDE, TCYB等领域期刊审稿人，任IJCAI, AAAI, KDD, WWW, CVPR 等（高级）程序委员会委员。谷歌学术引用20,000+，H指数（H-Index) 50。主要研究方向为数据挖掘、机器学习，侧重于图数据学习与分析。过去3年其研究受到澳大利亚基金委（Australian Research Council)， 亚马逊AWS，澳大利亚国防科技部（Defence Science and Technology Group），美卓奥图泰 (Metso Outotec)等资助。&lt;/p&gt;
-&lt;p&gt;潘世瑞主要研究方向为人工智能、机器学习、数据挖掘。其长期从事图机器学习研究，其团队&lt;a href=&#39;http://shiruipan.github.io/#people&#39;&gt; GRAND Lab &lt;/a&gt; &lt;/span&gt;在图神经网络及其在异常检测、推荐系统、时序分析、交通预测、知识图谱等方面进行了广泛研究。研究工作受到国际同行学者广泛关注，其关于图神经网络的综述文章《A Comprehensive Survey on Graph Neural Networks》发表于IEEE TNNLS 2021， 引用高达6000+。发表于KDD、IJCAI、AAAI、CIKM等顶级会议的共8篇文章被评为最具影响力论文（Most Influential Papers）。团队成员毕业后大多数获得海内外教职（如获得“海外优青”成为中国知名院校特聘教授）、进入学术界工业界，或者自主创业。&lt;/p&gt;
+&lt;p&gt;潘世瑞主要研究方向为人工智能、机器学习、数据挖掘。其长期从事图机器学习研究，其团队&lt;a href=&#39;http://Sean-Bin-Yang.github.io/#people&#39;&gt; GRAND Lab &lt;/a&gt; &lt;/span&gt;在图神经网络及其在异常检测、推荐系统、时序分析、交通预测、知识图谱等方面进行了广泛研究。研究工作受到国际同行学者广泛关注，其关于图神经网络的综述文章《A Comprehensive Survey on Graph Neural Networks》发表于IEEE TNNLS 2021， 引用高达6000+。发表于KDD、IJCAI、AAAI、CIKM等顶级会议的共8篇文章被评为最具影响力论文（Most Influential Papers）。团队成员毕业后大多数获得海内外教职（如获得“海外优青”成为中国知名院校特聘教授）、进入学术界工业界，或者自主创业。&lt;/p&gt;
 &lt;h3 id=&#34;关于大学和环境&#34;&gt;关于大学和环境&lt;/h3&gt;
 &lt;p&gt;格里菲斯大学同时在布里斯班和黄金海岸招生。布里斯班是昆士兰州首府城市，悠闲与活力并存；黄金海岸环境优美，阳光明媚，绵延70公里的金色沙滩魅力无限，是澳洲最著名的旅游胜地之一，也是能很好体验学习和生活的地方。&lt;/p&gt;
 &lt;p&gt;格里菲斯大学的&lt;a href=&#34;https://www.shanghairanking.com/institution/griffith-university&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;计算机科学与工程&lt;/a&gt;学科在软科ARWU排名位于76-100名之间。
@@ -436,188 +436,188 @@ Dynamic Graph Neural ODEs (TKDE-22)&lt;/a&gt;&lt;/li&gt;
     
     <item>
       <title>Neural Temporal Walks: Motif-Aware Representation Learning on Continuous-Time Dynamic Graphs</title>
-      <link>https://shiruipan.github.io/publication/neurips-22-jin/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/neurips-22-jin/</link>
       <pubDate>Mon, 28 Nov 2022 19:47:36 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/neurips-22-jin/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/neurips-22-jin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pseudo-Riemannian Graph Convolutional Networks</title>
-      <link>https://shiruipan.github.io/publication/neurips-22-xiong/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/neurips-22-xiong/</link>
       <pubDate>Mon, 28 Nov 2022 19:47:36 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/neurips-22-xiong/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/neurips-22-xiong/</guid>
       <description></description>
     </item>
     
-    <item>
+    <!-- <item>
       <title>Rethinking and Scaling Up Graph Contrastive Learning: An Extremely Efficient Approach with Group Discrimination</title>
-      <link>https://shiruipan.github.io/publication/neurips-22-zheng/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/neurips-22-zheng/</link>
       <pubDate>Mon, 28 Nov 2022 19:47:36 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/neurips-22-zheng/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/neurips-22-zheng/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Dynamic Variational Framework for Open-World Node Classification in Structured Sequences</title>
-      <link>https://shiruipan.github.io/publication/icdm-22-zhang/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/icdm-22-zhang/</link>
       <pubDate>Sun, 27 Nov 2022 19:47:36 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/icdm-22-zhang/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/icdm-22-zhang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How Far are We from Robust Long Abstractive Summarization?</title>
-      <link>https://shiruipan.github.io/publication/emnlp-22-koh/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/emnlp-22-koh/</link>
       <pubDate>Sun, 27 Nov 2022 19:47:36 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/emnlp-22-koh/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/emnlp-22-koh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multi-Relational Graph Neural Architecture Search with Fine-grained Message Passing</title>
-      <link>https://shiruipan.github.io/publication/icdm-22-xin/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/icdm-22-xin/</link>
       <pubDate>Sun, 27 Nov 2022 19:47:36 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/icdm-22-xin/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/icdm-22-xin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unifying Graph Contrastive Learning with Flexible Contextual Scopes</title>
-      <link>https://shiruipan.github.io/publication/icdm-22-yizhen/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/icdm-22-yizhen/</link>
       <pubDate>Sun, 27 Nov 2022 19:47:36 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/icdm-22-yizhen/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/icdm-22-yizhen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Empirical Survey on Long Document Summarization: Datasets, Models and Metrics</title>
-      <link>https://shiruipan.github.io/publication/csur-22-koh/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/csur-22-koh/</link>
       <pubDate>Fri, 25 Nov 2022 09:36:17 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/csur-22-koh/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/csur-22-koh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Beyond low-pass filtering: Graph convolutional networks with automatic filtering</title>
-      <link>https://shiruipan.github.io/publication/tkde-22-wu/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/tkde-22-wu/</link>
       <pubDate>Fri, 25 Nov 2022 09:36:17 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/tkde-22-wu/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/tkde-22-wu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multivariate Time Series Forecasting with Dynamic Graph Neural ODEs</title>
-      <link>https://shiruipan.github.io/publication/tkde-22-jin/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/tkde-22-jin/</link>
       <pubDate>Fri, 25 Nov 2022 09:36:17 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/tkde-22-jin/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/tkde-22-jin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projective Ranking-based GNN Evasion Attacks</title>
-      <link>https://shiruipan.github.io/publication/tkde-22-zhang/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/tkde-22-zhang/</link>
       <pubDate>Fri, 25 Nov 2022 09:36:17 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/tkde-22-zhang/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/tkde-22-zhang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reinforced, Incremental and Cross-lingual Event Detection From Social Messages</title>
-      <link>https://shiruipan.github.io/publication/tpami-22-peng/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/tpami-22-peng/</link>
       <pubDate>Fri, 25 Nov 2022 09:36:17 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/tpami-22-peng/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/tpami-22-peng/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Robust Physical-World Attacks on Face Recognition</title>
-      <link>https://shiruipan.github.io/publication/pr-22-xin/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/pr-22-xin/</link>
       <pubDate>Fri, 25 Nov 2022 09:36:17 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/pr-22-xin/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/pr-22-xin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards Graph Self-Supervised Learning with Contrastive Adjusted Zooming</title>
-      <link>https://shiruipan.github.io/publication/tnnls-22-zheng/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/tnnls-22-zheng/</link>
       <pubDate>Fri, 25 Nov 2022 09:36:17 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/tnnls-22-zheng/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/tnnls-22-zheng/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TraverseNet: Unifying Space and Time in Message Passing for Traffic Forecasting</title>
-      <link>https://shiruipan.github.io/publication/tnnls-22-wu/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/tnnls-22-wu/</link>
       <pubDate>Fri, 25 Nov 2022 09:36:17 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/tnnls-22-wu/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/tnnls-22-wu/</guid>
       <description></description>
-    </item>
+    </item> -->
     
     <item>
-      <title>潘世瑞（中文简介）</title>
-      <link>https://shiruipan.github.io/post/bio_cn/</link>
+      <title>杨斌（中文简介）</title>
+      <link>https://Sean-Bin-Yang.github.io/post/bio_cn/</link>
       <pubDate>Wed, 21 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/post/bio_cn/</guid>
-      <description>&lt;p&gt;潘世瑞，澳大利亚基金委杰出青年 &lt;a href=&#34;https://www.arc.gov.au/news-publications/media/media-releases/outstanding-mid-career-researchers-conduct-research-benefit-australia&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ARC Future Fellow&lt;/a&gt; （2021年全澳信息学部仅5人入选），入选&lt;a href=&#34;https://www.qldacademy.org.au/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;澳大利亚昆士兰艺术与科学院（QAAS）&lt;/a&gt; Fellow （QAAS是昆士兰顶级科学机构，其Fellow 选择标准是对科学艺术作出杰出贡献），格里菲斯大学（&lt;a href=&#34;https://www.griffith.edu.au/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Griffith University&lt;/a&gt;） 正教授（Full Professor），同时也是目前澳洲计算机领域最年轻正教授（之一）。连续两年入选全球&lt;a href=&#34;https://shiruipan.github.io/post/ai2000-2022.png&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AAAI/IJCAI最具影响力学者&lt;/a&gt;（2022澳洲仅3人入选），入选&lt;a href=&#34;https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;全球前2%顶尖科学家榜单&lt;/a&gt; （2022，2021），
+      <guid>https://Sean-Bin-Yang.github.io/post/bio_cn/</guid>
+      <description>&lt;p&gt;杨斌，x x &lt;a href=&#34;https://www.arc.gov.au/news-publications/media/media-releases/outstanding-mid-career-researchers-conduct-research-benefit-australia&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ARC Future Fellow&lt;/a&gt; （2021年全澳信息学部仅5人入选），入选&lt;a href=&#34;https://www.qldacademy.org.au/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;澳大利亚昆士兰艺术与科学院（QAAS）&lt;/a&gt; Fellow （QAAS是昆士兰顶级科学机构，其Fellow 选择标准是对科学艺术作出杰出贡献），格里菲斯大学（&lt;a href=&#34;https://www.griffith.edu.au/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Griffith University&lt;/a&gt;） 正教授（Full Professor），同时也是目前澳洲计算机领域最年轻正教授（之一）。连续两年入选全球&lt;a href=&#34;https://Sean-Bin-Yang.github.io/post/ai2000-2022.png&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AAAI/IJCAI最具影响力学者&lt;/a&gt;（2022澳洲仅3人入选），入选&lt;a href=&#34;https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;全球前2%顶尖科学家榜单&lt;/a&gt; （2022，2021），
 获得2021&lt;a href=&#34;https://www.monash.edu/it/research/awards-and-successes/faculty-awards&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;蒙纳士大学信息技术学院研究卓越奖（早期研究者）&lt;/a&gt;。指导学生获得数据挖掘会议ICDM 最佳学生论文奖（2020），获得2020年JCDL会议最佳论文提名奖。在NeurIPS、ICML、KDD、TPAMI、TKDE等发表高水平论文150篇。同时担任TPAMI, TNNLS, TKDE, TCYB等领域期刊审稿人，任IJCAI, AAAI, KDD, WWW, CVPR 等（高级）程序委员会委员。谷歌学术引用20,000+，H指数（H-Index) 50。主要研究方向为数据挖掘、机器学习、图深度学习。过去3年其研究受到澳大利亚基金委（Australian Research Council)， 亚马逊AWS，澳大利亚国防科技部（Defence Science and Technology Group），美卓奥图泰 (Metso Outotec)等资助。&lt;/p&gt;
-&lt;p&gt;潘世瑞长期从事图数据挖掘与学习研究，其领导的实验室&lt;a href=&#39;http://shiruipan.github.io/#people&#39;&gt; GRAND Lab &lt;/a&gt; &lt;/span&gt;包括博士后、博士生、研究生近20人，是澳大利亚最大的专注于图机器学习的实验室。GRAND Lab在图神经网络及其在异常检测、推荐系统、时序分析、交通预测、知识图谱等方面进行了广泛研究。研究工作受到国际同行学者广泛关注，其关于图神经网络的综述文章《A Comprehensive Survey on Graph Neural Networks》发表于IEEE TNNLS 2021， 引用高达5000+。发表于KDD、IJCAI、AAAI、CIKM等顶级会议的共8篇文章被评为最具影响力论文（Most Influential Papers）。&lt;/p&gt;
+&lt;p&gt;潘世瑞长期从事图数据挖掘与学习研究，其领导的实验室&lt;a href=&#39;http://Sean-Bin-Yang.github.io/#people&#39;&gt; GRAND Lab &lt;/a&gt; &lt;/span&gt;包括博士后、博士生、研究生近20人，是澳大利亚最大的专注于图机器学习的实验室。GRAND Lab在图神经网络及其在异常检测、推荐系统、时序分析、交通预测、知识图谱等方面进行了广泛研究。研究工作受到国际同行学者广泛关注，其关于图神经网络的综述文章《A Comprehensive Survey on Graph Neural Networks》发表于IEEE TNNLS 2021， 引用高达5000+。发表于KDD、IJCAI、AAAI、CIKM等顶级会议的共8篇文章被评为最具影响力论文（Most Influential Papers）。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Ultrahyperbolic Knowledge Graph Embeddings</title>
-      <link>https://shiruipan.github.io/publication/kdd-22-xiong/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/kdd-22-xiong/</link>
       <pubDate>Sun, 14 Aug 2022 19:47:36 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/kdd-22-xiong/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/kdd-22-xiong/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Graph self-supervised learning: A survey</title>
-      <link>https://shiruipan.github.io/publication/liu-21-survey/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/liu-21-survey/</link>
       <pubDate>Tue, 02 Aug 2022 09:36:04 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/liu-21-survey/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/liu-21-survey/</guid>
       <description></description>
     </item>
     
-    <item>
+    <!-- <item>
       <title>CGMN: A Contrastive Graph Matching Network for Self-Supervised Graph Similarity Learning</title>
-      <link>https://shiruipan.github.io/publication/ijcai-22-jin/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/ijcai-22-jin/</link>
       <pubDate>Sat, 23 Jul 2022 19:47:36 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/ijcai-22-jin/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/ijcai-22-jin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multi-Graph Fusion Networks for Urban Region Embedding</title>
-      <link>https://shiruipan.github.io/publication/ijcai-22-wu/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/ijcai-22-wu/</link>
       <pubDate>Sat, 23 Jul 2022 19:47:36 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/ijcai-22-wu/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/ijcai-22-wu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Survey on Graph Neural Network Acceleration: An Algorithmic Perspective</title>
-      <link>https://shiruipan.github.io/publication/ijcai-22-liu/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/ijcai-22-liu/</link>
       <pubDate>Sat, 23 Jul 2022 19:47:36 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/ijcai-22-liu/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/ijcai-22-liu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Triformer: Triangular, Variable-Specific Attentions for Long Sequence Multivariate Time Series Forecasting</title>
-      <link>https://shiruipan.github.io/publication/ijcai-22-cirstea/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/ijcai-22-cirstea/</link>
       <pubDate>Sat, 23 Jul 2022 19:47:36 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/ijcai-22-cirstea/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/ijcai-22-cirstea/</guid>
       <description></description>
-    </item>
+    </item> -->
     
     <item>
       <title>PhD/Visitor Positions</title>
-      <link>https://shiruipan.github.io/post/phd_position/</link>
+      <link>https://Sean-Bin-Yang.github.io/post/phd_position/</link>
       <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/post/phd_position/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/post/phd_position/</guid>
       <description>&lt;p&gt;I am a full Professor at &lt;a href=&#34;https://www.griffith.edu.au/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Griffith University&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;I am looking for self-motivated Ph.D students funded by: (1) Griffith University (2) Australian Research Council.&lt;/p&gt;
 &lt;p&gt;&lt;span style=&#34;color:red&#34;&gt; Multiple Phd positions are available. Applicants currently in Australia are especially welcome! Drop me an email now!&lt;/span&gt;&lt;/p&gt;
@@ -631,7 +631,7 @@ Dynamic Graph Neural ODEs (TKDE-22)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Times Higher Education World University Rankings: 201–250&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;research-group&#34;&gt;Research Group&lt;/h3&gt;
-&lt;p&gt;&lt;span style=&#34;color:red&#34;&gt; Group members can be found &lt;a href=&#39;http://shiruipan.github.io/#people&#39;&gt; here.&lt;/a&gt; &lt;/span&gt;
+&lt;p&gt;&lt;span style=&#34;color:red&#34;&gt; Group members can be found &lt;a href=&#39;http://Sean-Bin-Yang.github.io/#people&#39;&gt; here.&lt;/a&gt; &lt;/span&gt;
 This research group mainly focuses on data mining, machine learning, NLP, deep learning, graph data analytics, and AI applications. The research group consists of a number of Phd students working on the following area (Potential PhD/minor thesis/honours research topics include but are not limited to):&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;b&gt; Graph &amp;amp; Network Analytics &lt;/b&gt;
@@ -711,529 +711,529 @@ This research group mainly focuses on data mining, machine learning, NLP, deep l
     
     <item>
       <title>A Probabilistic Graphical Model Based on Neural-symbolic Reasoning for Visual Relationship Detection</title>
-      <link>https://shiruipan.github.io/publication/cvpr-22-yu/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/cvpr-22-yu/</link>
       <pubDate>Wed, 29 Jun 2022 09:36:17 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/cvpr-22-yu/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/cvpr-22-yu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>BaLeNAS: Differentiable Architecture Search via Bayesian Learning Rule</title>
-      <link>https://shiruipan.github.io/publication/cvpr-22-zhang/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/cvpr-22-zhang/</link>
       <pubDate>Wed, 29 Jun 2022 09:36:17 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/cvpr-22-zhang/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/cvpr-22-zhang/</guid>
       <description></description>
     </item>
     
-    <item>
+    <!-- <item>
       <title>Cross-modal Clinical Graph Transformer For Ophthalmic Report Generation</title>
-      <link>https://shiruipan.github.io/publication/cvpr-22-li/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/cvpr-22-li/</link>
       <pubDate>Wed, 29 Jun 2022 09:36:17 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/cvpr-22-li/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/cvpr-22-li/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards Spatio-Temporal Aware Traffic Time Series Forecasting</title>
-      <link>https://shiruipan.github.io/publication/icde-22-cirstea/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/icde-22-cirstea/</link>
       <pubDate>Thu, 09 Jun 2022 09:36:17 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/icde-22-cirstea/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/icde-22-cirstea/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Model Extraction Attacks on Graph Neural Networks: Taxonomy and Realisation</title>
-      <link>https://shiruipan.github.io/publication/asiaccs-22-wu/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/asiaccs-22-wu/</link>
       <pubDate>Mon, 30 May 2022 19:38:03 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/asiaccs-22-wu/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/asiaccs-22-wu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Predicting Best-Selling New Products in a Major Promotion Campaign through Graph Convolutional Networks</title>
-      <link>https://shiruipan.github.io/publication/tnnls-22-li/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/tnnls-22-li/</link>
       <pubDate>Mon, 30 May 2022 09:36:17 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/tnnls-22-li/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/tnnls-22-li/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fire Burns, Swords Cut: Commonsense Inductive Bias for Exploration in Text-based Games</title>
-      <link>https://shiruipan.github.io/publication/acl-22-ryu/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/acl-22-ryu/</link>
       <pubDate>Fri, 27 May 2022 09:36:17 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/acl-22-ryu/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/acl-22-ryu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Attraction and Repulsion: Unsupervised Domain Adaptive Graph Contrastive Learning Network</title>
-      <link>https://shiruipan.github.io/publication/tetci-22-wu/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/tetci-22-wu/</link>
       <pubDate>Tue, 10 May 2022 09:36:17 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/tetci-22-wu/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/tetci-22-wu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning multi-level weight-centric features for few-shot learning</title>
-      <link>https://shiruipan.github.io/publication/pr-22-liang/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/pr-22-liang/</link>
       <pubDate>Tue, 10 May 2022 09:36:17 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/pr-22-liang/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/pr-22-liang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GCNFusion: An efficient graph convolutional network based model for information diffusion</title>
-      <link>https://shiruipan.github.io/publication/esaw-22-fatemi/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/esaw-22-fatemi/</link>
       <pubDate>Fri, 06 May 2022 09:36:17 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/esaw-22-fatemi/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/esaw-22-fatemi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dual Space Graph Contrastive Learning</title>
-      <link>https://shiruipan.github.io/publication/www-22-yang/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/www-22-yang/</link>
       <pubDate>Mon, 25 Apr 2022 09:36:17 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/www-22-yang/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/www-22-yang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards Unsupervised Deep Graph Structure Learning</title>
-      <link>https://shiruipan.github.io/publication/www-22-liu/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/www-22-liu/</link>
       <pubDate>Mon, 25 Apr 2022 09:36:17 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/www-22-liu/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/www-22-liu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Predicting Human Mobility via Graph Convolutional Dual-attentive Networks</title>
-      <link>https://shiruipan.github.io/publication/wsdm-21-dang/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/wsdm-21-dang/</link>
       <pubDate>Sun, 27 Feb 2022 19:47:36 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/wsdm-21-dang/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/wsdm-21-dang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exploring Relational Semantics for Inductive Knowledge Graph Completion</title>
-      <link>https://shiruipan.github.io/publication/aaai-22-wang/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/aaai-22-wang/</link>
       <pubDate>Tue, 22 Feb 2022 09:36:17 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/aaai-22-wang/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/aaai-22-wang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Discrete Embedding for Attributed Graphs</title>
-      <link>https://shiruipan.github.io/publication/yang-pr-22/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/yang-pr-22/</link>
       <pubDate>Sat, 22 Jan 2022 19:56:22 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/yang-pr-22/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/yang-pr-22/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Anomaly Detection in Dynamic Graphs via Transformer</title>
-      <link>https://shiruipan.github.io/publication/tkde-liu-21/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/tkde-liu-21/</link>
       <pubDate>Wed, 27 Oct 2021 15:01:58 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/tkde-liu-21/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/tkde-liu-21/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contrastive Graph Poisson Networks: Semi-Supervised Learning with Extremely Limited Labels</title>
-      <link>https://shiruipan.github.io/publication/neurips-21-wan/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/neurips-21-wan/</link>
       <pubDate>Tue, 28 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/neurips-21-wan/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/neurips-21-wan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>One-shot Learning-based Animal Video Segmentation</title>
-      <link>https://shiruipan.github.io/publication/tii-21-xue/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/tii-21-xue/</link>
       <pubDate>Sat, 18 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/tii-21-xue/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/tii-21-xue/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adapting Membership Inference Attacks to GNN for Graph Classification: Approaches and Implications</title>
-      <link>https://shiruipan.github.io/publication/icdm-21-wu/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/icdm-21-wu/</link>
       <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/icdm-21-wu/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/icdm-21-wu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hypergraph Convolutional Network for Group Recommendation</title>
-      <link>https://shiruipan.github.io/publication/icdm-21-jia/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/icdm-21-jia/</link>
       <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/icdm-21-jia/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/icdm-21-jia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Learning Data Augmentation for Raman Spectroscopy Cancer Tissue Classification</title>
-      <link>https://shiruipan.github.io/publication/sr-21-wu/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/sr-21-wu/</link>
       <pubDate>Wed, 25 Aug 2021 09:36:17 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/sr-21-wu/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/sr-21-wu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning Graph Representations with Maximal Cliques</title>
-      <link>https://shiruipan.github.io/publication/molaei-tnnls-21/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/molaei-tnnls-21/</link>
       <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/molaei-tnnls-21/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/molaei-tnnls-21/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ANEMONE: Graph Anomaly Detection with Multi-Scale Contrastive Learning</title>
-      <link>https://shiruipan.github.io/publication/cikm-21-jin/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/cikm-21-jin/</link>
       <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/cikm-21-jin/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/cikm-21-jin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Leveraging Information Bottleneck for Scientific Document Summarization</title>
-      <link>https://shiruipan.github.io/publication/emnlp-21-ju/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/emnlp-21-ju/</link>
       <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/emnlp-21-ju/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/emnlp-21-ju/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projective Ranking: A Transferable Evasion Attack Method on Graph Neural Networks</title>
-      <link>https://shiruipan.github.io/publication/cikm-21-zhang/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/cikm-21-zhang/</link>
       <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/cikm-21-zhang/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/cikm-21-zhang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Neighbor-aware Embedding for Node Clustering in Attributed Graphs</title>
-      <link>https://shiruipan.github.io/publication/pr-wang-21/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/pr-wang-21/</link>
       <pubDate>Thu, 05 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/pr-wang-21/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/pr-wang-21/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Survey of Community Detection Approaches: From Statistical Modeling to Deep Learning</title>
-      <link>https://shiruipan.github.io/publication/tkde-jin-21/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/tkde-jin-21/</link>
       <pubDate>Tue, 27 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/tkde-jin-21/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/tkde-jin-21/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cyclic label propagation for graph semi-supervised learning</title>
-      <link>https://shiruipan.github.io/publication/liu-wwwj-21/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/liu-wwwj-21/</link>
       <pubDate>Thu, 24 Jun 2021 09:36:47 +1100</pubDate>
-      <guid>https://shiruipan.github.io/publication/liu-wwwj-21/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/liu-wwwj-21/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OpenWGL: Open-World Graph Learning for Unseen Class Node Classification</title>
-      <link>https://shiruipan.github.io/publication/kais-wu-21/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/kais-wu-21/</link>
       <pubDate>Fri, 11 Jun 2021 12:15:49 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/kais-wu-21/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/kais-wu-21/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Temporal Network Embedding for Link Prediction via VAE joint Attention Mechanism</title>
-      <link>https://shiruipan.github.io/publication/tnnls-21-jiao/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/tnnls-21-jiao/</link>
       <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/tnnls-21-jiao/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/tnnls-21-jiao/</guid>
       <description></description>
     </item>
     
     <item>
       <title>iDARTS: Differentiable Architecture Search with Stochastic Implicit Gradients</title>
-      <link>https://shiruipan.github.io/publication/icml-2021-zhang/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/icml-2021-zhang/</link>
       <pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/icml-2021-zhang/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/icml-2021-zhang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Medical Code Assignment with Gated Convolution and Note-Code Interaction</title>
-      <link>https://shiruipan.github.io/publication/ji-2021-acl-finding/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/ji-2021-acl-finding/</link>
       <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/ji-2021-acl-finding/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/ji-2021-acl-finding/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multi-Scale Contrastive Siamese Networks for Self-Supervised Graph Representation Learning</title>
-      <link>https://shiruipan.github.io/publication/ijcai-2021-jin/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/ijcai-2021-jin/</link>
       <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/ijcai-2021-jin/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/ijcai-2021-jin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dual Interactive Graph Convolutional Networks for Hyperspectral Image Classification</title>
-      <link>https://shiruipan.github.io/publication/tgrs-2021-wan/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/tgrs-2021-wan/</link>
       <pubDate>Sat, 10 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/tgrs-2021-wan/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/tgrs-2021-wan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Heterogeneous Graph Attention Network for Small and Medium-Sized Enterprises Bankruptcy Prediction</title>
-      <link>https://shiruipan.github.io/publication/pakdd-21-zheng/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/pakdd-21-zheng/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/pakdd-21-zheng/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/pakdd-21-zheng/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Survey on Knowledge Graphs: Representation, Acquisition and Applications</title>
-      <link>https://shiruipan.github.io/publication/tnnls-21-ji/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/tnnls-21-ji/</link>
       <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/tnnls-21-ji/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/tnnls-21-ji/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Graph Learning: A Survey</title>
-      <link>https://shiruipan.github.io/publication/tai-21-xia/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/tai-21-xia/</link>
       <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/tai-21-xia/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/tai-21-xia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Anomaly Detection on Attributed Networks via Contrastive Self-Supervised Learning</title>
-      <link>https://shiruipan.github.io/publication/tnnls-21-liu/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/tnnls-21-liu/</link>
       <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/tnnls-21-liu/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/tnnls-21-liu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Convolutional Neural Networks based Lung Nodule Classification: A Surrogate-Assisted Evolutionary Algorithm for Hyperparameter Optimization</title>
-      <link>https://shiruipan.github.io/publication/tevc-21-zhang/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/tevc-21-zhang/</link>
       <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/tevc-21-zhang/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/tevc-21-zhang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning Graph Neural Networks with Positive and Unlabeled Nodes</title>
-      <link>https://shiruipan.github.io/publication/tkdd-21-wu/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/tkdd-21-wu/</link>
       <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/tkdd-21-wu/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/tkdd-21-wu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Task-adaptive Neural Process for User Cold-Start Recommendation</title>
-      <link>https://shiruipan.github.io/publication/www-2021-lin/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/www-2021-lin/</link>
       <pubDate>Mon, 11 Jan 2021 12:15:49 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/www-2021-lin/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/www-2021-lin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contrastive and Generative Graph Convolutional Networks for Graph-based Semi-Supervised Learning</title>
-      <link>https://shiruipan.github.io/publication/aaai-2021-wan/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/aaai-2021-wan/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/aaai-2021-wan/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/aaai-2021-wan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Compact Scheduling for Task Graph Oriented Mobile Crowdsourcing</title>
-      <link>https://shiruipan.github.io/publication/tmc-20-wang/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/tmc-20-wang/</link>
       <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/tmc-20-wang/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/tmc-20-wang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>One-Shot Neural Architecture Search: Maximising Diversity to Overcome Catastrophic Forgetting</title>
-      <link>https://shiruipan.github.io/publication/tpami-20-zhang/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/tpami-20-zhang/</link>
       <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/tpami-20-zhang/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/tpami-20-zhang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Differentiable Neural Architecture Search in Equivalent Space with Exploration Enhancement</title>
-      <link>https://shiruipan.github.io/publication/neurips-20-zhang/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/neurips-20-zhang/</link>
       <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/neurips-20-zhang/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/neurips-20-zhang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Graph Geometry Interaction Learning</title>
-      <link>https://shiruipan.github.io/publication/neurips-20-zhu/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/neurips-20-zhu/</link>
       <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/neurips-20-zhu/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/neurips-20-zhu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Graph Stochastic Neural Networks for Semi-supervised Learning</title>
-      <link>https://shiruipan.github.io/publication/neurips-20-wang/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/neurips-20-wang/</link>
       <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/neurips-20-wang/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/neurips-20-wang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Suicidal Ideation Detection: A Review of Machine Learning Methods and Applications</title>
-      <link>https://shiruipan.github.io/publication/ji-2020-tccs/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/ji-2020-tccs/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/ji-2020-tccs/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/ji-2020-tccs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cross-Graph: Robust and Unsupervised Embedding for Attributed Graphs with Corrupted Structure</title>
-      <link>https://shiruipan.github.io/publication/icdm-20-wang/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/icdm-20-wang/</link>
       <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/icdm-20-wang/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/icdm-20-wang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OpenWGL: Open-World Graph Learning</title>
-      <link>https://shiruipan.github.io/publication/icdm-20-wu/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/icdm-20-wu/</link>
       <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/icdm-20-wu/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/icdm-20-wu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks</title>
-      <link>https://shiruipan.github.io/publication/kdd-2020-wu/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/kdd-2020-wu/</link>
       <pubDate>Fri, 15 May 2020 12:15:49 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/kdd-2020-wu/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/kdd-2020-wu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Grounding Visual Concepts for Multimedia Event Detection and Multimedia Event Captioning in Zero-shot Setting</title>
-      <link>https://shiruipan.github.io/publication/kdd-2020-li/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/kdd-2020-li/</link>
       <pubDate>Fri, 15 May 2020 12:15:49 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/kdd-2020-li/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/kdd-2020-li/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multivariate Relations Aggregation Learning in Social Networks</title>
-      <link>https://shiruipan.github.io/publication/jcdl-2020-xu/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/jcdl-2020-xu/</link>
       <pubDate>Fri, 15 May 2020 12:15:49 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/jcdl-2020-xu/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/jcdl-2020-xu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hyperspectral Image Classification with Context-aware Dynamic Graph Convolutional Networks</title>
-      <link>https://shiruipan.github.io/publication/tgrs-2020-wan/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/tgrs-2020-wan/</link>
       <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/tgrs-2020-wan/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/tgrs-2020-wan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Relation-Specific Attention Network for Joint Entity and Relation Extraction</title>
-      <link>https://shiruipan.github.io/publication/ijcai-2020-yuan/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/ijcai-2020-yuan/</link>
       <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/ijcai-2020-yuan/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/ijcai-2020-yuan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>One-Shot Neural Architecture Search via Novelty Driven Sampling</title>
-      <link>https://shiruipan.github.io/publication/ijcai-2020-zhang/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/ijcai-2020-zhang/</link>
       <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/ijcai-2020-zhang/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/ijcai-2020-zhang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reasoning Like Human: Hierarchical Reinforcement Learning for Knowledge Graph Reasoning</title>
-      <link>https://shiruipan.github.io/publication/ijcai-2020-wan/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/ijcai-2020-wan/</link>
       <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/ijcai-2020-wan/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/ijcai-2020-wan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A comprehensive survey on graph neural networks</title>
-      <link>https://shiruipan.github.io/publication/wu-2019-comprehensive/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/wu-2019-comprehensive/</link>
       <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/wu-2019-comprehensive/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/wu-2019-comprehensive/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Overcoming Multi-Model Forgetting in One-Shot NAS with Diversity Maximization</title>
-      <link>https://shiruipan.github.io/publication/cvpr-2020-zhang/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/cvpr-2020-zhang/</link>
       <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/cvpr-2020-zhang/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/cvpr-2020-zhang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unsupervised Domain Adaptive Graph Convolutional Networks</title>
-      <link>https://shiruipan.github.io/publication/www-2020-wu/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/www-2020-wu/</link>
       <pubDate>Fri, 10 Jan 2020 12:15:49 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/www-2020-wu/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/www-2020-wu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Going Deep: Graph Convolutional Ladder-shape Networks</title>
-      <link>https://shiruipan.github.io/publication/aaai-2020-hu/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/aaai-2020-hu/</link>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/aaai-2020-hu/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/aaai-2020-hu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GSSNN: Graph Smoothing Splines Neural Networks</title>
-      <link>https://shiruipan.github.io/publication/aaai-2020-zhu/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/aaai-2020-zhu/</link>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/aaai-2020-zhu/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/aaai-2020-zhu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reinforcement Learning based Meta-path Discovery in Large-scale Heterogeneous Information Networks</title>
-      <link>https://shiruipan.github.io/publication/aaai-2020-wan/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/aaai-2020-wan/</link>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/aaai-2020-wan/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/aaai-2020-wan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Clustering Social Audiences in Business Information Networks</title>
-      <link>https://shiruipan.github.io/publication/pr-2019-zheng/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/pr-2019-zheng/</link>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/pr-2019-zheng/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/pr-2019-zheng/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Familial Clustering For Weakly-labeled Android Malware Using Hybrid Representation Learning</title>
-      <link>https://shiruipan.github.io/publication/zhang-2019-tifs/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/zhang-2019-tifs/</link>
       <pubDate>Sat, 12 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/zhang-2019-tifs/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/zhang-2019-tifs/</guid>
       <description></description>
-    </item>
+    </item> -->
     
     <item>
       <title>Special Issue on Graph Powered Machine Learning</title>
-      <link>https://shiruipan.github.io/post/si_graphml/</link>
+      <link>https://Sean-Bin-Yang.github.io/post/si_graphml/</link>
       <pubDate>Tue, 17 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/post/si_graphml/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/post/si_graphml/</guid>
       <description>&lt;h3 id=&#34;journal&#34;&gt;Journal&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&#34;http://bit.ly/GraphML-FGCS&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Future-Generation Computing Systems&lt;/a&gt; (&lt;span style=&#34;color:red&#34;&gt; &lt;b&gt;IF 5.768, CORE A&lt;/b&gt;&lt;/span&gt;).&lt;/p&gt;
 &lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;
@@ -1275,9 +1275,9 @@ This research group mainly focuses on data mining, machine learning, NLP, deep l
     
     <item>
       <title>Special Issue on Knowledge Graph Representation and Reasoning</title>
-      <link>https://shiruipan.github.io/post/si_kg/</link>
+      <link>https://Sean-Bin-Yang.github.io/post/si_kg/</link>
       <pubDate>Tue, 17 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/post/si_kg/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/post/si_kg/</guid>
       <description>&lt;h3 id=&#34;journal&#34;&gt;Journal&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.journals.elsevier.com/neurocomputing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Neurocomputing&lt;/a&gt; (&lt;span style=&#34;color:red&#34;&gt; &lt;b&gt;IF 4.072&lt;/b&gt;&lt;/span&gt;).&lt;/p&gt;
 &lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;
@@ -1340,97 +1340,17 @@ vision, bioinformatics, and more.&lt;/p&gt;
     
     <item>
       <title>Adaptive knowledge subgraph ensemble for robust and trustworthy knowledge graph completion</title>
-      <link>https://shiruipan.github.io/publication/wwwj-2019-wan/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/wwwj-2019-wan/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/wwwj-2019-wan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An Effective and Explainable Deep Fusion Network for Affect Recognition Using Physiological Signals</title>
-      <link>https://shiruipan.github.io/publication/cikm-19-lin/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/cikm-19-lin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Domain-Adversarial Graph Neural Networks for Text Classification</title>
-      <link>https://shiruipan.github.io/publication/icdm-19-wu/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/icdm-19-wu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Learning Graph Embedding With Adversarial Training Methods</title>
-      <link>https://shiruipan.github.io/publication/tcyb-2019-pan/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/tcyb-2019-pan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Long-short Distance Aggregation Networks for Positive Unlabeled Graph Learning</title>
-      <link>https://shiruipan.github.io/publication/cikm-19-wu/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/cikm-19-wu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Relation Structure-Aware Heterogeneous Graph Neural Network</title>
-      <link>https://shiruipan.github.io/publication/icdm-19-zhu/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/icdm-19-zhu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Exploiting Implicit Influence from Information Propagation for Social Recommendation</title>
-      <link>https://shiruipan.github.io/publication/tcyb-2019-xiong/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/tcyb-2019-xiong/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Attributed Graph Clustering: A Deep Attentional Embedding Approach</title>
-      <link>https://shiruipan.github.io/publication/ijcai-2019-wang/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/ijcai-2019-wang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Graph WaveNet for Deep Spatial-Temporal Graph Modeling</title>
-      <link>https://shiruipan.github.io/publication/ijcai-2019-wu/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/ijcai-2019-wu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Influence Spread in Geo-Social Networks: A Multi-Objective Optimization Perspective</title>
-      <link>https://shiruipan.github.io/publication/tcyb-2019-wang/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/tcyb-2019-wang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Low-Bit Quantization for Attributed Network Representation Learning</title>
-      <link>https://shiruipan.github.io/publication/ijcai-2019-yang/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/ijcai-2019-yang/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/wwwj-2019-wan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>https://shiruipan.github.io/slides/example/</link>
+      <link>https://Sean-Bin-Yang.github.io/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/slides/example/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -1552,297 +1472,17 @@ $$&lt;/p&gt;
     
     <item>
       <title>CFOND: consensus factorization for co-clustering networked data</title>
-      <link>https://shiruipan.github.io/publication/guo-cfond-2019/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/guo-cfond-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/guo-cfond-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cost-sensitive parallel learning framework for insurance intelligence operation</title>
-      <link>https://shiruipan.github.io/publication/jiang-cost-sensitive-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/jiang-cost-sensitive-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Detecting Suicidal Ideation with Data Protection in Online Communities</title>
-      <link>https://shiruipan.github.io/publication/ji-detecting-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/ji-detecting-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Identify topic relations in scientific literature using topic modeling</title>
-      <link>https://shiruipan.github.io/publication/chen-identify-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/chen-identify-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>IEEE access special section editorial: advanced data analytics for large-scale complex data environments</title>
-      <link>https://shiruipan.github.io/publication/wu-ieee-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/wu-ieee-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Label Embedding with Partial Heterogeneous Contexts</title>
-      <link>https://shiruipan.github.io/publication/aaai-19-shi/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/aaai-19-shi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Measuring distance-based semantic similarity using meronymy and hyponymy relations</title>
-      <link>https://shiruipan.github.io/publication/cai-measuring-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/cai-measuring-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Social recommendation with evolutionary opinion dynamics</title>
-      <link>https://shiruipan.github.io/publication/xiong-social-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/xiong-social-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Time series feature learning with labeled and unlabeled data</title>
-      <link>https://shiruipan.github.io/publication/wang-time-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/wang-time-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A hybrid user experience evaluation method for mobile games</title>
-      <link>https://shiruipan.github.io/publication/yu-hybrid-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/yu-hybrid-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A three-layered mutually reinforced model for personalized citation recommendation</title>
-      <link>https://shiruipan.github.io/publication/cai-three-layered-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/cai-three-layered-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Active discriminative network representation learning</title>
-      <link>https://shiruipan.github.io/publication/gao-active-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/gao-active-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Advances in processing, mining, and learning complex data: From foundations to real-world applications</title>
-      <link>https://shiruipan.github.io/publication/wu-advances-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/wu-advances-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Adversarially regularized graph autoencoder for graph embedding</title>
-      <link>https://shiruipan.github.io/publication/pan-adversarially-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/pan-adversarially-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Binarized attributed network embedding</title>
-      <link>https://shiruipan.github.io/publication/yang-binarized-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/yang-binarized-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cost-sensitive hybrid neural networks for heterogeneous and imbalanced data</title>
-      <link>https://shiruipan.github.io/publication/jiang-cost-sensitive-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/jiang-cost-sensitive-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cross-domain deep learning approach for multiple financial market prediction</title>
-      <link>https://shiruipan.github.io/publication/jiang-cross-domain-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/jiang-cross-domain-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DiSAN: directional self-attention network for RNN/CNN-free language understanding</title>
-      <link>https://shiruipan.github.io/publication/shen-disan-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/shen-disan-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Discrete network embedding</title>
-      <link>https://shiruipan.github.io/publication/shen-discrete-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/shen-discrete-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Explore semantic topics and author communities for citation recommendation in bipartite bibliographic network</title>
-      <link>https://shiruipan.github.io/publication/dai-explore-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/dai-explore-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>FraudNE: a joint embedding approach for fraud detection</title>
-      <link>https://shiruipan.github.io/publication/zheng-fraudne-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/zheng-fraudne-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hashing for adaptive real-time graph stream classification with concept drifts</title>
-      <link>https://shiruipan.github.io/publication/chi-hashing-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/chi-hashing-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Heterogeneous information network embedding based personalized query-focused astronomy reference paper recommendation</title>
-      <link>https://shiruipan.github.io/publication/cai-heterogeneous-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/cai-heterogeneous-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Low-rank and sparse matrix factorization for scientific paper recommendation in heterogeneous network</title>
-      <link>https://shiruipan.github.io/publication/dai-low-rank-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/dai-low-rank-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multi-instance learning with discriminative bag mapping</title>
-      <link>https://shiruipan.github.io/publication/wu-multi-instance-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/wu-multi-instance-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multiple structure-view learning for graph classification</title>
-      <link>https://shiruipan.github.io/publication/wu-multiple-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/wu-multiple-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Query-oriented citation recommendation based on network correlation</title>
-      <link>https://shiruipan.github.io/publication/yang-query-oriented-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/yang-query-oriented-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Supervised learning for suicidal ideation detection in online user content</title>
-      <link>https://shiruipan.github.io/publication/ji-supervised-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/ji-supervised-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Boosting for graph classification with universum</title>
-      <link>https://shiruipan.github.io/publication/pan-boosting-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/pan-boosting-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Graph ladder networks for network classification</title>
-      <link>https://shiruipan.github.io/publication/hu-graph-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/hu-graph-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MGAE: marginalized graph autoencoder for graph clustering</title>
-      <link>https://shiruipan.github.io/publication/wang-mgae-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/wang-mgae-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multi-document summarization based on sentence cluster using Non-negative Matrix Factorization</title>
-      <link>https://shiruipan.github.io/publication/yang-multi-document-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/yang-multi-document-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Positive and unlabeled multi-graph learning</title>
-      <link>https://shiruipan.github.io/publication/wu-positive-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/wu-positive-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Task sensitive feature exploration and learning for multitask graph classification</title>
-      <link>https://shiruipan.github.io/publication/pan-task-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/pan-task-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Towards large-scale social networks with online diffusion provenance detection</title>
-      <link>https://shiruipan.github.io/publication/wang-towards-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/wang-towards-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Universal network representation for heterogeneous information networks</title>
-      <link>https://shiruipan.github.io/publication/hu-universal-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/hu-universal-2017/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/guo-cfond-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Example Project</title>
-      <link>https://shiruipan.github.io/project/example/</link>
+      <link>https://Sean-Bin-Yang.github.io/project/example/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/project/example/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/project/example/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
@@ -1853,241 +1493,25 @@ $$&lt;/p&gt;
     
     <item>
       <title>Classifying networked text data with positive and unlabeled examples</title>
-      <link>https://shiruipan.github.io/publication/li-classifying-2016/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/li-classifying-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/li-classifying-2016/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/li-classifying-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Co-clustering enterprise social networks</title>
-      <link>https://shiruipan.github.io/publication/hu-co-clustering-2016/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/hu-co-clustering-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/hu-co-clustering-2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Direct discriminative bag mapping for multi-instance learning</title>
-      <link>https://shiruipan.github.io/publication/wu-direct-2016/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/wu-direct-2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Iterative views agreement: an iterative low-rank based structured optimization method to multi-view spectral clustering</title>
-      <link>https://shiruipan.github.io/publication/wang-iterative-2016/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/wang-iterative-2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Joint structure feature exploration and regularization for multi-task graph classification</title>
-      <link>https://shiruipan.github.io/publication/pan-joint-2016/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/pan-joint-2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multi-graph-view subgraph mining for graph classification</title>
-      <link>https://shiruipan.github.io/publication/wu-multi-graph-view-2016/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/wu-multi-graph-view-2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SODE: Self-adaptive one-dependence estimators for classification</title>
-      <link>https://shiruipan.github.io/publication/wu-sode-2016/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/wu-sode-2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tri-party deep network representation</title>
-      <link>https://shiruipan.github.io/publication/pan-tri-party-2016/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/pan-tri-party-2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Boosting for multi-graph classification</title>
-      <link>https://shiruipan.github.io/publication/wu-boosting-2015/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/wu-boosting-2015/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CogBoost: boosting for fast cost-sensitive graph classification</title>
-      <link>https://shiruipan.github.io/publication/pan-cogboost-2015/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/pan-cogboost-2015/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Finding the best not the most: regularized loss minimization subgraph selection for graph classification</title>
-      <link>https://shiruipan.github.io/publication/pan-finding-2015/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/pan-finding-2015/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Graph ensemble boosting for imbalanced noisy graph stream classification</title>
-      <link>https://shiruipan.github.io/publication/pan-graph-2015/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/pan-graph-2015/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Locally weighted learning: how and when does it work in Bayesian networks?</title>
-      <link>https://shiruipan.github.io/publication/wu-locally-2015/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/wu-locally-2015/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mining top-k minimal redundancy frequent patterns over uncertain databases</title>
-      <link>https://shiruipan.github.io/publication/wang-mining-2015/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/wang-mining-2015/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multi-graph-view learning for complicated object classification</title>
-      <link>https://shiruipan.github.io/publication/wu-multi-graph-view-2015-1/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/wu-multi-graph-view-2015-1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multi-graph-view Learning for Graph Classification</title>
-      <link>https://shiruipan.github.io/publication/wu-multi-graph-view-2015/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/wu-multi-graph-view-2015/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Self-adaptive attribute weighting for Naive Bayes classification</title>
-      <link>https://shiruipan.github.io/publication/wu-self-adaptive-2015/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/wu-self-adaptive-2015/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Attribute weighting: how and when does it work for Bayesian Network Classification</title>
-      <link>https://shiruipan.github.io/publication/wu-attribute-2014/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/wu-attribute-2014/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dual instance and attribute weighting for Naive Bayes classification</title>
-      <link>https://shiruipan.github.io/publication/wu-dual-2014/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/wu-dual-2014/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Exploring features for complicated objects: cross-view feature selection for multi-instance learning</title>
-      <link>https://shiruipan.github.io/publication/wu-exploring-2014/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/wu-exploring-2014/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multi-graph learning with positive and unlabeled bags</title>
-      <link>https://shiruipan.github.io/publication/wu-multi-graph-2014/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/wu-multi-graph-2014/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Graph classification with imbalanced class distributions and noise</title>
-      <link>https://shiruipan.github.io/publication/pan-graph-2013/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/pan-graph-2013/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Graph stream classification using labeled and unlabeled graphs</title>
-      <link>https://shiruipan.github.io/publication/pan-graph-2013-1/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/pan-graph-2013-1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CGStream: Continuous correlated graph query for data streams</title>
-      <link>https://shiruipan.github.io/publication/pan-cgstream-2012/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/pan-cgstream-2012/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Continuous top-k query for graph streams</title>
-      <link>https://shiruipan.github.io/publication/pan-continuous-2012/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/pan-continuous-2012/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dynamic classifier ensemble for positive unlabeled text stream classification</title>
-      <link>https://shiruipan.github.io/publication/pan-dynamic-2012/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/pan-dynamic-2012/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Top-k correlated subgraph query for data streams</title>
-      <link>https://shiruipan.github.io/publication/pan-top-k-2012/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/pan-top-k-2012/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Classifier ensemble for uncertain data stream classification</title>
-      <link>https://shiruipan.github.io/publication/pan-classifier-2010/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/pan-classifier-2010/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ensemble of multiple descriptors for automatic image annotation</title>
-      <link>https://shiruipan.github.io/publication/he-ensemble-2010/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/publication/he-ensemble-2010/</guid>
+      <guid>https://Sean-Bin-Yang.github.io/publication/hu-co-clustering-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://shiruipan.github.io/admin/config.yml</link>
+      <link>https://Sean-Bin-Yang.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://shiruipan.github.io/admin/config.yml</guid>
+      <guid>https://Sean-Bin-Yang.github.io/admin/config.yml</guid>
       <description></description>
     </item>
     
