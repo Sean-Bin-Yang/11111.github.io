@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Shirui Pan</title>
-    <link>https://shiruipan.github.io/publication/</link>
-      <atom:link href="https://shiruipan.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <title>Publications | Sean Bin Yang</title>
+    <link>https://Sean-Bin-Yang.github.io/publication/</link>
+      <atom:link href="https://Sean-Bin-Yang.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 10 Dec 2023 19:47:36 +1100</lastBuildDate>
     <image>
-      <url>https://shiruipan.github.io/media/icon_hu59d1f1cfeeafec33917f8e7cb700ff18_30479_512x512_fill_lanczos_center_3.png</url>
+      <url>https://Sean-Bin-Yang.github.io/media/Sean.png</url>
       <title>Publications</title>
-      <link>https://shiruipan.github.io/publication/</link>
+      <link>https://Sean-Bin-Yang.github.io/publication/</link>
     </image>
     
     <item>
@@ -20,7 +20,7 @@
       <description></description>
     </item>
     
-    <item>
+<!--     <item>
       <title>Structure-free Graph Condensation: From Large-scale Graphs to Condensed Graph-free Data</title>
       <link>https://shiruipan.github.io/publication/neurips-23-zheng-1/</link>
       <pubDate>Sun, 10 Dec 2023 19:47:36 +1100</pubDate>
@@ -1546,7 +1546,7 @@
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       <guid>https://shiruipan.github.io/publication/he-ensemble-2010/</guid>
       <description></description>
-    </item>
+    </item> -->
     
   </channel>
 </rss>
